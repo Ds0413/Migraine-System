@@ -1,0 +1,10 @@
+D1|Melandez|Clinic Prima|mel123@email|01231
+D2|Jeremiah|Clinic Merpati|jerem14h@email|01232
+D3|Jesse|Clinic Puchong|jesse31@email|01233
+D4|Asshvind|Clinic Klang|asshvind01@email|01234
+D5|Kuhan|Clinic SG|kuhan222@email|01235
+D6|Tan|Clinic Cyberjaya|tancyber@email|01236
+D7|Lam|Clinic Tiger|lam0311@email|01237
+D8|Vimal|Clinic DeezNuts|vim41@email|01238
+D9|Jackson|Clinic PrimaCare|jackson5@email|01239
+D10|Haifa|Clinic Kasih|haifa123@email|01230
